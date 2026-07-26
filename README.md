@@ -114,7 +114,7 @@ Professional data cleaning project completed during the DecodeLabs Data Analytic
 
 ✔ Google IT Security
 
-✔ Vanderbilt University — Prompt Engineering for ChatGPT
+✔ Vanderbilt University Prompt Engineering for ChatGPT
 
 ✔ EC-Council Information Security Fundamentals
 
