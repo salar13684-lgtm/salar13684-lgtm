@@ -154,7 +154,7 @@ www.linkedin.com/in/salar-shah-7bb2683a2
 
 🌐 Portfolio
 
-https://finance-tech-portfolio.vercel.app/
+https://salar-shah-portfolio.vercel.app/
 
 💻 GitHub
 
