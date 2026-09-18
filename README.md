@@ -29,6 +29,7 @@ Currently, I'm building a strong portfolio through practical projects, internshi
 
 - Python
 - SQL
+- Postgre SQL
 - HTML
 - CSS
 - C++
@@ -108,15 +109,13 @@ Professional data cleaning project completed during the DecodeLabs Data Analytic
 
 ✔ IBM Data Analysis with Python
 
-✔ Google Data Analytics using Python
-
 ✔ Google Technical Support Fundamentals
 
 ✔ Google IT Security
 
 ✔ Vanderbilt University Prompt Engineering for ChatGPT
 
-✔ EC-Council Information Security Fundamentals
+✔ EC-Council Information Security Analyst
 
 ✔ AWS Cloud Essentials
 
