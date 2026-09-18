@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Salar Shah 👋
 
-### Fintech Student | Data Analytics | PostgreSQL | Python | AML & KYC | Aspiring Credit Risk & Fraud Analytics
+### Fintech Student | Data & Business Analytics | PostgreSQL | Python | AML & KYC | Aspiring Credit Risk & Fraud Analytics
 
 I am a **Financial Technology (FinTech)** undergraduate passionate about transforming raw data into actionable insights through **Data Analytics**, **Business Intelligence**, and **Financial Technology**.
 
